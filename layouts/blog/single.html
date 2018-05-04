@@ -1,0 +1,43 @@
+{{ partial "header-blog.html" . }}
+<div class="blog post">
+<!-- SET: MAIN CONTENT -->
+		<div class="main_content">
+			<div class="banner section">
+				<div class="container">
+					<div class="page-img">
+						<img src="/images/large-b.png" alt="page image">
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="posts-container">
+				<div class="inner_container">
+					<a href="{{.Site.BaseURL}}/blog" class="back">Back</a>
+					<article>
+						<h1>{{ .Title }}</h1>
+						<a href="{{ .Params.authorLink  }}" rel="author" class="author" target="_blank">{{ .Params.authorName  }}</a>
+						<time>{{ .Params.dateOfPublication  }}</time>
+						{{ .Content }}
+						<a href="{{.Site.BaseURL}}/blog" class="back">Back</a>
+					</article>
+
+				
+				</div><!-- /.inner_container -->
+			</div><!-- /.posts-container -->
+
+			
+
+
+			{{ partial "mailchimp.html" . }}
+			
+			
+
+			
+			
+
+			<!-- END: MAIN CONTENT -->
+
+</div>
+{{ partial "footer.html" . }}

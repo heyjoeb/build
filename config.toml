@@ -1,0 +1,4 @@
+baseURL = "http://heyjoe.com.co/clientes/hellobuild/hugo-site"
+languageCode = "en-us"
+title = "Hello Build"
+

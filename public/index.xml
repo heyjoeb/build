@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Build</title>
+    <link>http://heyjoe.com.co/clientes/hellobuild/hugo-site/</link>
+    <description>Recent content on Hello Build</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 May 2018 12:49:43 -0500</lastBuildDate>
+    
+	<atom:link href="http://heyjoe.com.co/clientes/hellobuild/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beyond the Cryptocurrency Hype</title>
+      <link>http://heyjoe.com.co/clientes/hellobuild/hugo-site/blog/beyond-the-cryptocurrency-hype/</link>
+      <pubDate>Fri, 04 May 2018 12:49:43 -0500</pubDate>
+      
+      <guid>http://heyjoe.com.co/clientes/hellobuild/hugo-site/blog/beyond-the-cryptocurrency-hype/</guid>
+      <description>Here at HelloBuild we have been lucky to work together with the Hyperledger project hosting our local meetup. This has exposed us to the large collection of projects under the Hyperledger umbrella. Now with two of those projects reaching 1.0, it&amp;rsquo;s much easier to clearly see real world applicability of DLT based solutions.
+Smart Contracts vs Tokens Many adopters of blockchain technology have married the intrinsic value of this technology with the existence of digital tokens.</description>
+    </item>
+    
+    <item>
+      <title>Blockchains Practical Asociations</title>
+      <link>http://heyjoe.com.co/clientes/hellobuild/hugo-site/blog/blockchains-practical-asociations/</link>
+      <pubDate>Fri, 04 May 2018 12:41:33 -0500</pubDate>
+      
+      <guid>http://heyjoe.com.co/clientes/hellobuild/hugo-site/blog/blockchains-practical-asociations/</guid>
+      <description>Talking blockchain is a sure way to get a lot of people to pay attention to you nowadays, sadly its also very easy to confuse your audience. This is mostly a symptom of too many complex conversations merging into one trendy cacophony about the future of technology/economics and how blockchain somehow sits under all these massive waves of change.
+My intent on this article is to be a little more pragmatic and talk about Blockchain and some of it&amp;rsquo;s applications and at the same time to invite readers to consider it as a solution to current problems.</description>
+    </item>
+    
+    <item>
+      <title>Why Does Everyone Keep Talking About Blockchain</title>
+      <link>http://heyjoe.com.co/clientes/hellobuild/hugo-site/blog/why-does-everyone-keep-talking-about-blockchain/</link>
+      <pubDate>Fri, 04 May 2018 12:28:13 -0500</pubDate>
+      
+      <guid>http://heyjoe.com.co/clientes/hellobuild/hugo-site/blog/why-does-everyone-keep-talking-about-blockchain/</guid>
+      <description>It seems lately everyone keeps talking about Blockchains and Cryptocurrencies. There are many good reasons why these two have become all the rage. In this article I want to quickly introduce concepts that will allow me to expand in a series of later posts.
+Blockchain: why instead of what I think the best way to start explaining blockchain is to explain the Why. Why do we need it and why should we care.</description>
+    </item>
+    
+    <item>
+      <title>Hello Build!</title>
+      <link>http://heyjoe.com.co/clientes/hellobuild/hugo-site/blog/hello-build/</link>
+      <pubDate>Thu, 03 May 2018 17:15:48 -0500</pubDate>
+      
+      <guid>http://heyjoe.com.co/clientes/hellobuild/hugo-site/blog/hello-build/</guid>
+      <description>Throughout our careers, Build’s founding team¹ has been lucky to live through at least a couple of incredible technological revolutions. At the same time we have added our contributions to them, by building digital products for the past two decades.
+This year we decided we wanted more. Driving innovation one product at a time with one company at a time is great, but when trying to keep up with new tech, that single pipeline makes a product builder feel stale and outdated.</description>
+    </item>
+    
+  </channel>
+</rss>
